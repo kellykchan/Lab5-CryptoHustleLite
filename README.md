@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 Here's a image of implemented features:
 
-<img src='image.png' title='Image Walkthrough' width='' alt='Image Walkthrough' />
+<img src='imagepreview.png' title='Image Walkthrough' width='' alt='Image Walkthrough' />
 
 ## License
 
